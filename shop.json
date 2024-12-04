@@ -1,0 +1,92 @@
+[
+    {
+      "id": "1",
+      "title": "Аirbus A320",
+      "vendor_code": "111",
+      "description": "Один из самых популярных самолётов в мире",
+      "price": 320,
+      "img": "A320.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Аirbus A330",
+      "vendor_code": "222",
+      "description": "Широкофюзеляжный самолёт",
+      "price": 330,
+      "img": "A330.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Аirbus A340",
+      "vendor_code": "333",
+      "description": "Старый широкофюзеляжный самолёт",
+      "price": 340,
+      "img": "A340.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Аirbus A350",
+      "vendor_code": "444e",
+      "description": "Самый технологичный самолёт",
+      "price": 350,
+      "img": "A350.jpg"
+    }
+    ,
+    {
+      "id": "5",
+      "title": "Аirbus A380",
+      "vendor_code": "4445e",
+      "description": "Самый большой пассажирский самолёт в мире",
+      "price": 380,
+      "img": "A380.png"
+    },
+    {
+      "id": "6",
+      "title": "Boeing 737",
+      "vendor_code": "4446e",
+      "description": "FAA не рекомендует",
+      "price": 737,
+      "img": "B737.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Boeing 747",
+      "vendor_code": "4447e",
+      "description": "Королева небес",
+      "price": 747,
+      "img": "B747.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Boeing 757",
+      "vendor_code": "4448e",
+      "description": "Узкофюзеляжник с характером дальнемагистрала",
+      "price": 757,
+      "img": "B757.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Boeing 767",
+      "vendor_code": "444e",
+      "description": "Дальнемагистральный самолёт",
+      "price": 767,
+      "img": "B767.jpg"
+    }
+    ,
+    {
+      "id": "10",
+      "title": "Boeing 777",
+      "vendor_code": "44410e",
+      "description": "Самый популярный широкофюзеляжный самолёт",
+      "price": 777,
+      "img": "B777.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Boeing 787",
+      "vendor_code": "44411e",
+      "description": "Лайнер мечты",
+      "price": 787,
+      "img": "787.jpg"
+    }
+  ]
